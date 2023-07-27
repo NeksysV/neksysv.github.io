@@ -2,5 +2,4 @@
 
 <https://neksysv.github.io/>
 
-Jetbrains IntelliJ Activation Code
-<script src="https://gist.github.com/ihabhamad/3fc931475b1fcc4528ec43be6fae624e.js"></script>
+[Jetbrains IntelliJ Activation Code](https://gist.github.com/ihabhamad/3fc931475b1fcc4528ec43be6fae624e.)
